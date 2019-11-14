@@ -22,3 +22,5 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+Angad Singh: this was a basic "hello world" project for understading rails that I did.
