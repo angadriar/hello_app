@@ -1,5 +1,7 @@
 # README
 
+Angad Singh: this was a basic "hello world" project for understading rails that I did.
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
@@ -23,4 +25,4 @@ Things you may want to cover:
 
 * ...
 
-Angad Singh: this was a basic "hello world" project for understading rails that I did.
+
